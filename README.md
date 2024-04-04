@@ -1,4 +1,4 @@
-# C_Class-1
+# Cos pro-1
 
 ```c
 #include <stdio.h>
